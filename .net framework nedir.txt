@@ -1,0 +1,16 @@
+.NET Framework nedir ?
+
+.NET framework Microsoft tarafından kurulan bir sistemdir.
+
+Geliştirilen yazılımların windows üzerinden sağlıklı çalışması için .NET framework kullanılması zorunludur. Bu sebeple Microsoft bu uygulamayı ücretsiz olarak piyasaya sunmuştur.
+
+.NET framework windowsta çalışan tüm programları destekler.
+
+Ayrıca IDE kullanılmadan notepad++ üzerinde yazılan kodları .NET framework aracılığıyla çalıştırmak mümkündür.
+
+Ayrıca .NET framework yalnızca windows işletim sisteminde çalışır.
+
+Windows işletim sistemine dahil olarak geldiğinden dolayı herhangi bir windows güncellemesinde .NET framework sürümüde güncellenecektir.
+
+
+
